@@ -10,4 +10,4 @@ Then we train a model using *'internship_train.csv'* dataset and predict using *
 
 - First of all you need to install [this file](https://github.com/lavMary/QuantumDsTest/blob/main/task3.py.ipynb).
 - File with all libraries, modules and packages is also [provided](https://github.com/lavMary/QuantumDsTest/blob/main/requirements.txt).
-- For using machine learning model, please install both of datasets from .zip [file] (https://github.com/lavMary/QuantumDsTest/blob/main/Datasets.zip).
+- For using machine learning model, please install both of datasets from .zip [file](https://github.com/lavMary/QuantumDsTest/blob/main/Datasets.zip).
